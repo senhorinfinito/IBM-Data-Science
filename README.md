@@ -1,7 +1,7 @@
 
 # IBM Data Science Professional Certification-  Capstone Project 
 
-Today, I've completed all 9 courses from the 𝗜𝗕𝗠 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻.
+I  have completed all 9 courses from the 𝗜𝗕𝗠 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻.
 It took 30 days to complete this milestone. This course was well
 crafted for beginners and gave a brief introduction to
 the Data science pipeline. The long hours of staring at the practice Jupyter
@@ -10,13 +10,13 @@ it as the notebooks helped me understand the basics perfectly.
 
 
 
-As part of Capstone I have worked on EDA project [here](https://github.com/senhorinfinito/ibm_coursera_capstone/blob/master/week5/week5all.ipynb)
+As part of Capstone I have worked on EDA project [here](https://github.com/senhorinfinito/IBM-Data-Science/blob/main/code/week%20%205%20-%20Solution.ipynb)
 
 
   
 ## Certificates 
 
-![IBM Data Science](https://github.com/senhorinfinito/ibm_coursera_capstone/blob/master/1.jpg)
+![IBM Data Science](./documents/certificate.jpg)
 
 
 
@@ -40,5 +40,5 @@ Sincere thanks to all the instructors of the above courses. The course contents 
   
 ## Feedback
 
-If you have any feedback, please reach out to me at [my profile](https://www.linkedin.com/in/anant-sakhare-909325173/)
+If you have any feedback, please reach out to me at [my profile](https://www.linkedin.com/in/anantsakhare/)
 
