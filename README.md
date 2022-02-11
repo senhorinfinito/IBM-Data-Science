@@ -19,7 +19,6 @@ As part of Capstone I have worked on EDA project [here](https://github.com/senho
 ![IBM Data Science](./documents/certificate.jpg)
 
 
-
 ## Course List
 
 The courses in this specialization are,
